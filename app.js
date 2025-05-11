@@ -1,3 +1,4 @@
+// Initialize level, maxscore, game/user sequence 
 let level = 0;
 let maxScore = 0;
 let gameSeq = [];
